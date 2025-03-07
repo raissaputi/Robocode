@@ -30,6 +30,7 @@
 				<alt abstract="true" name="AutoMovement">
 					<feature name="Cornering"/>
 					<feature name="Line"/>
+					<feature name="RandomMovement"/>
 				</alt>
 			</alt>
 			<alt abstract="true" mandatory="true" name="SelectEnemy">

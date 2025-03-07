@@ -14,6 +14,7 @@
 	<feature automatic="selected" manual="selected" name="AutoMovement"/>
 	<feature manual="selected" name="Cornering"/>
 	<feature automatic="unselected" name="Line"/>
+	<feature name="RandomMovement"/>
 	<feature automatic="selected" name="SelectEnemy"/>
 	<feature automatic="unselected" name="WeakestSelectEnemy"/>
 	<feature automatic="unselected" name="StrongestSelectEnemy"/>
